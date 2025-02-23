@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 int main() {
-    float alas, tinggi, luas;
+
+    float alas, tinggi, luas; 
 
     printf("Masukkan alas segitiga: ");
     scanf("%f", &alas);
