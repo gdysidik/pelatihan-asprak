@@ -33,18 +33,18 @@ int main() {
                 scanf("%d", &jawaban);
                 
                 if (jawaban == 2) {
-                    print("Benar! Anda berhasil menyelesaikan quiz dengan sempurna!\n");
+                    printf("Benar! Anda berhasil menyelesaikan quiz dengan sempurna!\n");
                 } else {
-                    print("Salah! Coba lagi lain kali.\n");
+                    printf("Salah! Coba lagi lain kali.\n");
                 }
             } else {
-                print("Salah! Coba lagi lain kali.\n");
+                printf("Salah! Coba lagi lain kali.\n");
             }
         } else {
-            print("Salah! Coba lagi lain kali.\n");
+            printf("Salah! Coba lagi lain kali.\n");
         }
     } else {
-        print("Salah! Coba lagi lain kali.\n");
+        printf("Salah! Coba lagi lain kali.\n");
     }
     
     0;
