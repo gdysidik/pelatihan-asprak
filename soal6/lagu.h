@@ -1,6 +1,8 @@
+#ifndef LAGU_H
+#define LAGU_H
+
 #include <string>
 #include <iostream>
-#ifndef LAGU_H
 
 class Lagu {
 private:
